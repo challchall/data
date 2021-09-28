@@ -1,26 +1,379 @@
 {
     "['Brand', 'Fiddlesticks', 'Gwen', 'Heimerdinger', 'Ivern', 'Lulu', 'Nunu', 'Teemo', 'Volibear']": {
-        "occurence": 14,
+        "occurence": 11,
         "data": [
             {
-                "gold_left": 3,
+                "gold_left": 1,
                 "level": 9,
                 "placement": 1,
-                "puuid": "IgotHAXXXeuw",
+                "puuid": "BlaznavaÇ",
                 "units": [
                     {
                         "character_id": "TFT5_Brand",
                         "items": [
-                            1168
+                            2013
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Lulu",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
                         "items": [
-                            47,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            27
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            17,
+                            17,
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            23,
+                            39,
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            99,
+                            17,
+                            22
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            55
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 0,
+                "level": 9,
+                "placement": 2,
+                "puuid": "BlaznavaÇ",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [
+                            17,
+                            46,
+                            14
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            15
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            14,
+                            2012,
+                            39
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            49,
+                            39,
+                            44
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 0,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            27
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            2057
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            66,
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            14,
+                            34,
+                            38
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            19,
+                            34
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            56
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 27,
+                "level": 9,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            66
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            2012,
+                            39,
+                            23
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            12,
+                            13,
+                            33
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            37
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 2,
+                "level": 9,
+                "placement": 1,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            55
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            68
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
                             79,
-                            35
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            14,
+                            2014,
+                            39
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            44,
+                            1168
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            66,
+                            77
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 2,
+                "level": 9,
+                "placement": 1,
+                "puuid": "Lezzaford",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            45
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [
+                            79,
+                            79
                         ],
                         "tier": 2
                     },
@@ -39,8 +392,7 @@
                     {
                         "character_id": "TFT5_Fiddlesticks",
                         "items": [
-                            77,
-                            45
+                            36
                         ],
                         "tier": 2
                     },
@@ -48,17 +400,163 @@
                         "character_id": "TFT5_Teemo",
                         "items": [
                             14,
-                            2049,
-                            33
+                            34,
+                            2012
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            1168
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 1,
+                "level": 9,
+                "placement": 1,
+                "puuid": "TMS Jean Keke",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            99,
+                            55,
+                            25
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36,
+                            25,
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            69
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            34,
+                            2034,
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            79,
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            59,
+                            1128
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 14,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            24
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            2057,
+                            77,
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            99
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            14,
+                            19,
+                            39
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Heimerdinger",
                         "items": [
-                            14
+                            99,
+                            2,
+                            49
                         ],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Gwen",
@@ -68,8 +566,80 @@
                     {
                         "character_id": "TFT5_Volibear",
                         "items": [
-                            37,
-                            29,
+                            59
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 2,
+                "level": 9,
+                "placement": 1,
+                "puuid": "Mulgore",
+                "units": [
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            19
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lulu",
+                        "items": [
+                            2
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            55,
+                            56,
+                            15
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            79,
+                            24,
+                            12
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            39,
+                            14,
+                            2049
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            1197,
                             1128
                         ],
                         "tier": 2
@@ -147,270 +717,59 @@
                 ]
             },
             {
-                "gold_left": 3,
+                "gold_left": 2,
                 "level": 9,
-                "placement": 2,
-                "puuid": "N/A",
+                "placement": 1,
+                "puuid": "Wet Jungler",
                 "units": [
                     {
                         "character_id": "TFT5_Brand",
                         "items": [
                             26
                         ],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Lulu",
-                        "items": [],
+                        "items": [
+                            79,
+                            14
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Nunu",
+                        "items": [
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
                         "items": [
                             57
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            99,
-                            16,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            29
-                        ],
-                        "tier": 2
-                    },
-                    {
                         "character_id": "TFT5_Teemo",
                         "items": [
-                            46,
-                            44,
+                            2044,
+                            38,
                             12
                         ],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Heimerdinger",
                         "items": [
-                            24
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [
-                            44,
-                            2039,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 9,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lulu",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2045
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            1168
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            14,
                             19,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [
-                            25,
-                            22
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 9,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            26
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lulu",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            2049,
-                            14,
-                            23
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [
-                            12,
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 9,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lulu",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            49,
-                            27
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            23,
-                            2039,
+                            39,
                             14
                         ],
                         "tier": 2
@@ -418,39 +777,111 @@
                     {
                         "character_id": "TFT5_Gwen",
                         "items": [
-                            39,
-                            1168,
-                            79
+                            12
                         ],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Volibear",
                         "items": [
-                            45,
-                            37
+                            6
+                        ],
+                        "tier": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "['Brand', 'Fiddlesticks', 'Ivern', 'Lux', 'Nunu', 'Syndra', 'Velkoz', 'Volibear']": {
+        "occurence": 13,
+        "data": [
+            {
+                "gold_left": 18,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Luque",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            47,
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            39,
+                            2049,
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36,
+                            25,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            7
                         ],
                         "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 1,
-                "level": 9,
-                "placement": 1,
-                "puuid": "JR70 Piechu",
+                "gold_left": 4,
+                "level": 8,
+                "placement": 2,
+                "puuid": "LIL Enzosexe",
                 "units": [
                     {
-                        "character_id": "TFT5_Brand",
+                        "character_id": "TFT5_Syndra",
                         "items": [
-                            99,
-                            69,
-                            33
+                            17
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Lulu",
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
                         "items": [],
                         "tier": 2
                     },
@@ -458,7 +889,215 @@
                         "character_id": "TFT5_Nunu",
                         "items": [
                             56,
-                            67
+                            55,
+                            2077
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            34,
+                            13,
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            66
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            25
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 3,
+                "level": 8,
+                "placement": 2,
+                "puuid": "CD Wavingthunder",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [
+                            24,
+                            35
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [
+                            67,
+                            24,
+                            33
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            2077
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            33,
+                            14,
+                            23
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            99,
+                            14,
+                            15
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [
+                            15,
+                            44
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [
+                            1189
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            2057
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            34,
+                            14,
+                            37
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            16
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36,
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 7,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [
+                            17,
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            39,
+                            2013,
+                            14
                         ],
                         "tier": 2
                     },
@@ -471,66 +1110,127 @@
                         "character_id": "TFT5_Fiddlesticks",
                         "items": [
                             36,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            14,
-                            2039,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            99
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [
-                            13,
-                            66,
-                            12
+                            33,
+                            36
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Volibear",
-                        "items": [],
+                        "items": [
+                            57,
+                            77
+                        ],
                         "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 0,
-                "level": 9,
+                "gold_left": 1,
+                "level": 8,
                 "placement": 2,
-                "puuid": "BlaznavaÇ",
+                "puuid": "N/A",
                 "units": [
                     {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 1
+                        "character_id": "TFT5_Syndra",
+                        "items": [
+                            79,
+                            19
+                        ],
+                        "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Lulu",
+                        "character_id": "TFT5_Brand",
                         "items": [
-                            17,
-                            46,
-                            14
+                            55
                         ],
-                        "tier": 1
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [
+                            27,
+                            27
+                        ],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Nunu",
                         "items": [
-                            56
+                            2066
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            34,
+                            14,
+                            49
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            79
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [
+                            79,
+                            17,
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            55,
+                            13,
+                            13
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            48,
+                            19,
+                            39
                         ],
                         "tier": 2
                     },
@@ -542,104 +1242,199 @@
                     {
                         "character_id": "TFT5_Fiddlesticks",
                         "items": [
-                            15
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            14,
-                            2012,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [
-                            49,
-                            39,
-                            44
+                            2045
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 2
+                        "items": [
+                            1197,
+                            46
+                        ],
+                        "tier": 1
                     }
                 ]
             },
             {
-                "gold_left": 2,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
+                "gold_left": 0,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Beso Sama",
                 "units": [
                     {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            56
-                        ],
+                        "character_id": "TFT5_Syndra",
+                        "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Lulu",
+                        "character_id": "TFT5_Brand",
                         "items": [],
                         "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [
+                            24
+                        ],
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT5_Nunu",
                         "items": [
                             57
                         ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            34,
+                            2013,
+                            14
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Ivern",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
                         "items": [
-                            99,
-                            23,
-                            69
+                            12,
+                            36,
+                            39
                         ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            48,
+                            5
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 0,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Brand",
+                        "items": [
+                            2079
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            77,
+                            48
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            14,
+                            39,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Fiddlesticks",
                         "items": [
-                            2036
+                            36
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            37,
+                            4
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 0,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [
+                            46
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Teemo",
+                        "character_id": "TFT5_Brand",
                         "items": [
-                            44,
+                            35
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lux",
+                        "items": [
+                            23,
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            25
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
                             39,
-                            12
+                            34,
+                            14
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            14,
-                            1197,
-                            39
-                        ],
+                        "character_id": "TFT5_Ivern",
+                        "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Gwen",
+                        "character_id": "TFT5_Fiddlesticks",
                         "items": [
-                            16,
-                            11
+                            2045,
+                            3
                         ],
                         "tier": 2
                     },
@@ -653,93 +1448,26 @@
                 ]
             },
             {
-                "gold_left": 4,
-                "level": 9,
+                "gold_left": 0,
+                "level": 8,
                 "placement": 2,
-                "puuid": "Rehnz",
+                "puuid": "TMS Jean Keke",
                 "units": [
                     {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lulu",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
+                        "character_id": "TFT5_Syndra",
                         "items": [
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            46,
-                            46,
                             79
                         ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            57,
-                            34,
-                            48
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            23,
-                            44,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            2049,
-                            14,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 9,
-                "placement": 1,
-                "puuid": "Aleniya",
-                "units": [
-                    {
                         "character_id": "TFT5_Brand",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Lulu",
-                        "items": [
-                            1189,
-                            14
-                        ],
+                        "character_id": "TFT5_Lux",
+                        "items": [],
                         "tier": 2
                     },
                     {
@@ -750,56 +1478,51 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
+                        "character_id": "TFT5_Velkoz",
                         "items": [
+                            14,
                             39,
-                            19,
-                            29
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            2044,
-                            12,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            47,
-                            46
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [
                             19
                         ],
                         "tier": 2
                     },
                     {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            2077,
+                            13,
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
                         "character_id": "TFT5_Volibear",
-                        "items": [],
+                        "items": [
+                            18,
+                            4
+                        ],
                         "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 14,
+                "gold_left": 2,
                 "level": 8,
                 "placement": 1,
-                "puuid": "N/A",
+                "puuid": "Aleniya",
                 "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [],
+                        "tier": 2
+                    },
                     {
                         "character_id": "TFT5_Brand",
                         "items": [
@@ -808,206 +1531,123 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Lulu",
+                        "character_id": "TFT5_Lux",
                         "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Nunu",
                         "items": [
-                            2057,
-                            77,
-                            56
+                            57,
+                            55,
+                            2077
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            39,
+                            49,
+                            12
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Ivern",
-                        "items": [],
+                        "items": [
+                            99,
+                            4,
+                            14
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            25,
+                            25,
+                            56
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
                         "items": [
                             99
                         ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            14,
-                            19,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            99,
-                            2,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            59
-                        ],
                         "tier": 1
                     }
                 ]
             },
             {
-                "gold_left": 0,
+                "gold_left": 14,
                 "level": 8,
                 "placement": 2,
-                "puuid": "N/A",
+                "puuid": "Lezzaford",
                 "units": [
                     {
-                        "character_id": "TFT5_Brand",
+                        "character_id": "TFT5_Syndra",
                         "items": [
-                            27
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lulu",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2057
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            66,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            14,
-                            34,
-                            38
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            19,
-                            34
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
+                            99,
+                            57,
                             56
                         ],
                         "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 9,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
+                    },
                     {
                         "character_id": "TFT5_Brand",
                         "items": [
-                            99,
-                            47,
-                            55
+                            17,
+                            44,
+                            46
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Lulu",
-                        "items": [
-                            79,
-                            17,
-                            14
-                        ],
-                        "tier": 2
+                        "character_id": "TFT5_Lux",
+                        "items": [],
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT5_Nunu",
                         "items": [
-                            57
+                            57,
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Velkoz",
+                        "items": [
+                            34,
+                            12,
+                            14
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Ivern",
-                        "items": [],
+                        "items": [
+                            99,
+                            25,
+                            12
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Fiddlesticks",
                         "items": [
-                            99,
-                            55,
-                            25
+                            2036
                         ],
                         "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Teemo",
-                        "items": [
-                            15,
-                            47
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Heimerdinger",
-                        "items": [
-                            23,
-                            2033,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Gwen",
-                        "items": [],
-                        "tier": 1
                     },
                     {
                         "character_id": "TFT5_Volibear",
                         "items": [
-                            57,
-                            55
+                            99,
+                            17,
+                            11
                         ],
                         "tier": 2
                     }
@@ -1016,75 +1656,80 @@
         ]
     },
     "['Akshan', 'Galio', 'Lucian', 'Nautilus', 'Pyke', 'Rakan', 'Rell', 'Senna']": {
-        "occurence": 24,
+        "occurence": 15,
         "data": [
             {
-                "gold_left": 4,
+                "gold_left": 0,
                 "level": 8,
-                "placement": 1,
-                "puuid": "AieZenSmurf",
+                "placement": 2,
+                "puuid": "N/A",
                 "units": [
                     {
                         "character_id": "TFT5_Senna",
-                        "items": [],
+                        "items": [
+                            79,
+                            16,
+                            17
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Pyke",
-                        "items": [
-                            45,
-                            37,
-                            24
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Nautilus",
-                        "items": [
-                            59
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Rakan",
                         "items": [
-                            79
+                            26
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Lucian",
                         "items": [
-                            11,
-                            49,
-                            26
+                            2011,
+                            19,
+                            16
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT5_Rell",
-                        "items": [],
+                        "items": [
+                            1196
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Galio",
                         "items": [
-                            27,
-                            2057
+                            66,
+                            1158,
+                            55
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Akshan",
-                        "items": [],
-                        "tier": 1
+                        "items": [
+                            99,
+                            1,
+                            16
+                        ],
+                        "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
+                "gold_left": 2,
+                "level": 9,
+                "placement": 1,
                 "puuid": "N/A",
                 "units": [
                     {
@@ -1099,40 +1744,36 @@
                     },
                     {
                         "character_id": "TFT5_Nautilus",
-                        "items": [
-                            59
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Rakan",
-                        "items": [
-                            14,
-                            47
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Lucian",
                         "items": [
-                            39,
+                            46,
                             19,
-                            2049
+                            12
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT5_Rell",
                         "items": [
-                            99,
-                            49,
-                            67
+                            66,
+                            57,
+                            48
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Galio",
                         "items": [
+                            2077,
                             55,
                             57
                         ],
@@ -1141,341 +1782,10 @@
                     {
                         "character_id": "TFT5_Akshan",
                         "items": [
-                            26,
-                            23,
-                            19
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 1,
-                "puuid": "SunsheeTFT",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            69
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [
-                            1197
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            3,
-                            35,
-                            58
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            25,
-                            12,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            1197,
-                            55,
-                            48
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            2099
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            79
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "SunsheeTFT",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            9,
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [
-                            27
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
                             49,
-                            12,
-                            25
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            2079,
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            37,
                             48
                         ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            99,
-                            35,
-                            23
-                        ],
                         "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [
-                            1158
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            3,
-                            46,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            19,
-                            2039,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            37,
-                            33,
-                            55
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            25,
-                            57,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            67
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Airidux",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            44
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            39,
-                            19,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            2047,
-                            57,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            11,
-                            29
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Wet Jungler",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            4,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            19,
-                            2029,
-                            16
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            48,
-                            55
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            26,
-                            89,
-                            49
-                        ],
-                        "tier": 2
                     }
                 ]
             },
@@ -1546,140 +1856,10 @@
                 ]
             },
             {
-                "gold_left": 10,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            49,
-                            12,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            55,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            77,
-                            2036,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            12,
-                            49,
-                            1195
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 5,
+                "gold_left": 19,
                 "level": 8,
                 "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            48,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            58
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            49,
-                            39,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            99,
-                            3,
-                            33
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            2055,
-                            77,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            2
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
+                "puuid": "ANO shreddin",
                 "units": [
                     {
                         "character_id": "TFT5_Senna",
@@ -1699,362 +1879,43 @@
                     {
                         "character_id": "TFT5_Rakan",
                         "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            12,
-                            39,
-                            2019
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            77,
-                            25,
-                            47
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            99,
-                            4,
-                            15
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            27
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            24
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            12,
-                            2025,
-                            39
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            27
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            36,
-                            56,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            27
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            46,
-                            19,
-                            12
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            66,
-                            57,
-                            48
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            2077,
-                            55,
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            49,
-                            48
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Hi im Êren",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [
-                            1
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [
-                            1158
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            23,
-                            2012,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            58,
-                            48,
                             13
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            12,
-                            11,
-                            49
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            79,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
                         "character_id": "TFT5_Lucian",
                         "items": [
-                            25,
-                            11,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            2066,
-                            56,
-                            77
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
+                            49,
                             12,
-                            39
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [
-                            79,
-                            16,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [
-                            26
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            2011,
-                            19,
-                            16
+                            2049
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT5_Rell",
                         "items": [
-                            1196
+                            99,
+                            35,
+                            27
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Galio",
                         "items": [
-                            66,
-                            1158,
-                            55
+                            47,
+                            56,
+                            56
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT5_Akshan",
                         "items": [
-                            99,
-                            1,
-                            16
+                            49,
+                            1158,
+                            15
                         ],
                         "tier": 2
                     }
@@ -2125,15 +1986,15 @@
                 ]
             },
             {
-                "gold_left": 22,
+                "gold_left": 10,
                 "level": 8,
                 "placement": 1,
-                "puuid": "Sologesang",
+                "puuid": "IIIQAQIII",
                 "units": [
                     {
                         "character_id": "TFT5_Senna",
                         "items": [],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Pyke",
@@ -2143,25 +2004,23 @@
                     {
                         "character_id": "TFT5_Nautilus",
                         "items": [
-                            9
+                            67
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Rakan",
                         "items": [
-                            79,
-                            17,
-                            79
+                            46
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Lucian",
                         "items": [
-                            12,
-                            49,
-                            2023
+                            29,
+                            11,
+                            19
                         ],
                         "tier": 3
                     },
@@ -2173,18 +2032,141 @@
                     {
                         "character_id": "TFT5_Galio",
                         "items": [
-                            1158,
-                            66,
-                            48
+                            2056,
+                            55,
+                            77
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Akshan",
                         "items": [
+                            24
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Fabulotus",
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [
+                            29
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            11,
+                            29,
+                            2019
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [
+                            77,
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            33,
+                            56,
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Akshan",
+                        "items": [
+                            24
+                        ],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "gold_left": 2,
+                "level": 8,
+                "placement": 1,
+                "puuid": "adreh",
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            39,
                             12,
-                            24,
-                            16
+                            12
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            13,
+                            2077,
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Akshan",
+                        "items": [
+                            23
                         ],
                         "tier": 1
                     }
@@ -2198,13 +2180,80 @@
                 "units": [
                     {
                         "character_id": "TFT5_Senna",
+                        "items": [
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
                         "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            2019,
+                            49,
+                            39
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            66,
+                            77,
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Akshan",
+                        "items": [
+                            23,
+                            11,
+                            12
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 2,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Wet Jungler",
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [
+                            79
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Pyke",
                         "items": [
-                            45
+                            4,
+                            14
                         ],
                         "tier": 2
                     },
@@ -2216,7 +2265,75 @@
                     {
                         "character_id": "TFT5_Rakan",
                         "items": [
-                            34,
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            19,
+                            2029,
+                            16
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            48,
+                            55
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Akshan",
+                        "items": [
+                            26,
+                            89,
+                            49
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 0,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [
+                            3,
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [
+                            45,
+                            37
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [
+                            99,
+                            7,
                             79
                         ],
                         "tier": 2
@@ -2224,230 +2341,33 @@
                     {
                         "character_id": "TFT5_Lucian",
                         "items": [
-                            2049,
-                            23,
-                            12
+                            12,
+                            39,
+                            49
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Rell",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            55,
-                            57,
-                            1158
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            99,
-                            7,
-                            67
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [
-                            79,
-                            29
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [
-                            59
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            19,
-                            2012,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            77,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            49,
-                            23,
-                            25
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
                         "items": [
                             47,
-                            69
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            39,
-                            12,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [
-                            48,
-                            66,
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            2077,
-                            56,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Akshan",
-                        "items": [
-                            26
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Senna",
-                        "items": [
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Pyke",
-                        "items": [
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nautilus",
-                        "items": [
-                            6,
-                            56,
-                            47
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Rakan",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lucian",
-                        "items": [
-                            39,
-                            49,
-                            2025
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Rell",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Galio",
-                        "items": [
-                            56,
                             57,
-                            15
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            2099,
+                            2056,
+                            2014
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Akshan",
-                        "items": [
-                            12
-                        ],
+                        "items": [],
                         "tier": 1
                     }
                 ]
@@ -2523,7 +2443,136 @@
                 "gold_left": 1,
                 "level": 8,
                 "placement": 1,
-                "puuid": "Red Kit Sama TFT",
+                "puuid": "Zaratuska",
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [
+                            67
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [
+                            17,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            16,
+                            19,
+                            39
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            56,
+                            2066,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Akshan",
+                        "items": [
+                            7
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 3,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            11,
+                            49,
+                            12
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [
+                            47,
+                            55,
+                            25
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            57,
+                            2077,
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Akshan",
+                        "items": [
+                            49,
+                            49,
+                            23
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "gold_left": 9,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Mulgore",
                 "units": [
                     {
                         "character_id": "TFT5_Senna",
@@ -2537,2098 +2586,51 @@
                     },
                     {
                         "character_id": "TFT5_Nautilus",
-                        "items": [],
-                        "tier": 1
+                        "items": [
+                            67
+                        ],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT5_Rakan",
                         "items": [
-                            46,
-                            79
+                            22,
+                            19
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Lucian",
                         "items": [
-                            29,
-                            16,
-                            12
+                            13,
+                            39,
+                            2019
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT5_Rell",
-                        "items": [],
+                        "items": [
+                            59
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Galio",
                         "items": [
-                            77,
-                            2066,
-                            37
+                            57,
+                            36
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT5_Akshan",
                         "items": [
-                            16
-                        ],
-                        "tier": 1
-                    }
-                ]
-            }
-        ]
-    },
-    "['Brand', 'Fiddlesticks', 'Ivern', 'Lux', 'Nunu', 'Syndra', 'Velkoz', 'Volibear']": {
-        "occurence": 31,
-        "data": [
-            {
-                "gold_left": 11,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            46,
-                            79,
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            33,
-                            2034,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            29,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            99,
-                            17,
-                            22
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            27
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Bananabill",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
                             23,
-                            24
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            47
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            1189
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            69,
-                            2034,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            6
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37,
-                            59
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "xCrescent",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            99,
-                            1,
-                            16
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2057
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            39,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            99,
-                            46,
-                            79
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            39,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            2013,
-                            14,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            38,
-                            36,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            38
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            23,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            39,
-                            34,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2045,
-                            3
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            24,
-                            17,
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            2013,
-                            39
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            38,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            25
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "kubixon06",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            24,
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            99,
-                            59,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2077
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            39,
-                            34,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            99,
-                            4,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            68,
-                            55,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            5,
-                            57
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 3,
-                "level": 8,
-                "placement": 2,
-                "puuid": "CD Wavingthunder",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            24,
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            67,
-                            24,
-                            33
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2077
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            33,
-                            14,
-                            23
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            99,
-                            14,
-                            15
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 4,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            55
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            48
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            34,
-                            13,
-                            2014
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            1197,
-                            44,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            25,
-                            39,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 45,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            17,
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            39,
-                            12
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36,
-                            45,
-                            2015
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            67,
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
+                            11,
                             11
                         ],
                         "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            34,
-                            2012,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            38
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            38
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 6,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            34,
-                            2039,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            27,
-                            55
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            39,
-                            36,
-                            15
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 3,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Aleniya",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            2059
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            55
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            39,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            5
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            45,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            36,
-                            68
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 48,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            37,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            13,
-                            44,
-                            2023
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 54,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Red Kit Sama TFT",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            68
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            77
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            49,
-                            14,
-                            13
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2045,
-                            36,
-                            34
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            46,
-                            17,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            33
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            33
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            2049,
-                            39,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            25,
-                            55,
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 16,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Red Kit Sama TFT",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            22,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            19,
-                            39,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2036,
-                            38
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            17,
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            55,
-                            13,
-                            13
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            48,
-                            19,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2045
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            1197,
-                            46
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 3,
-                "level": 8,
-                "placement": 2,
-                "puuid": "Aleniya",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            47
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            24
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            24,
-                            1168,
-                            23
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2057,
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            33,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            99,
-                            77,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            1
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 8,
-                "placement": 2,
-                "puuid": "lvl 1 Vulpix",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            24,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            77
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            2033,
-                            34,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            56,
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            99,
-                            33,
-                            13
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 18,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            17,
-                            14,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            77
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            39,
-                            39,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2045
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            56,
-                            2077,
-                            77
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            19,
-                            14,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            99,
-                            16,
-                            13
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            33,
-                            36,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            46
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            39,
-                            2019,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            59
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            1197
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2057,
-                            25,
-                            49
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            13,
-                            14,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36,
-                            37,
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 37,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2025,
-                            77,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            49,
-                            14,
-                            33
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            24
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            99,
-                            46,
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "ANO shreddin",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            33,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            15,
-                            7
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2099,
-                            2055,
-                            2013
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37,
-                            69,
-                            36
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2025
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            34,
-                            39
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            45,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36,
-                            13
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 4,
-                "level": 8,
-                "placement": 2,
-                "puuid": "San Jomian",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [
-                            19,
-                            22
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            59,
-                            57,
-                            77
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            39,
-                            49,
-                            14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            2045
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37,
-                            5
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 7,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            34,
-                            24,
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            14,
-                            2013,
-                            33
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            27,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            37
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            19,
-                            39,
-                            2014
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            45,
-                            34,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [
-                            9
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 12,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "units": [
-                    {
-                        "character_id": "TFT5_Syndra",
-                        "items": [
-                            79,
-                            1,
-                            48
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Brand",
-                        "items": [
-                            77
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Lux",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Nunu",
-                        "items": [
-                            2057
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Velkoz",
-                        "items": [
-                            39,
-                            14,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Ivern",
-                        "items": [
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Fiddlesticks",
-                        "items": [
-                            36,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT5_Volibear",
-                        "items": [],
-                        "tier": 1
                     }
                 ]
             }
