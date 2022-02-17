@@ -1,657 +1,469 @@
 {
-    "355": {
-        "occurence": 5,
-        "comp": "['Ezreal', 'Heimerdinger', 'Janna', 'Jayce', 'Orianna', 'Seraphine', 'Taric', 'Zilean']",
+    "478": {
+        "occurence": 4,
+        "comp": "['Alistar', 'ChoGath', 'Kaisa', 'KhaZix', 'Malzahar', 'RekSai']",
         "data": [
             {
-                "gold_left": 2,
+                "augments": [
+                    "TFT6_Augment_Phalanx1",
+                    "TFT6_Augment_CelestialBlessing2",
+                    "TFT6_Augment_BruteEmblem"
+                ],
+                "gold_left": 1,
                 "level": 8,
-                "placement": 1,
+                "placement": 2,
                 "puuid": "N/A",
                 "traits": [
                     {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
+                        "name": "Set6_Arcanist",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 4
                     },
                     {
-                        "name": "Set6_Innovator",
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Challenger",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Mutant",
                         "num_units": 5,
                         "style": 3,
                         "tier_current": 2,
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 2,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
+                        "name": "Set6_Striker",
                         "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_RekSai",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Malzahar",
+                        "items": [
+                            13,
+                            44,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_ChoGath",
+                        "items": [
+                            66
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_KhaZix",
+                        "items": [
+                            12,
+                            28,
+                            94
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Alistar",
+                        "items": [
+                            2197
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Kaisa",
+                        "items": [
+                            45,
+                            12
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_ArcanistTrait",
+                    "TFT6_Augment_PortableForge",
+                    "TFT6_Augment_TinyTitans"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Challenger",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Yordle",
+                        "name": "Set6_Hextech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Mutant",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
+                        "character_id": "TFT6_RekSai",
                         "items": [
-                            66
+                            9007
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Heimerdinger",
+                        "character_id": "TFT6_Malzahar",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_ChoGath",
                         "items": [
-                            13,
-                            34,
-                            14
+                            25,
+                            66,
+                            47
                         ],
                         "tier": 3
                     },
                     {
-                        "character_id": "TFT6_Taric",
-                        "items": [],
+                        "character_id": "TFT6_KhaZix",
+                        "items": [
+                            45
+                        ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Seraphine",
+                        "character_id": "TFT6_Alistar",
                         "items": [
-                            34,
+                            45,
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Kaisa",
+                        "items": [
                             37,
+                            94,
                             14
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            23,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [
-                            55,
-                            56,
-                            47
                         ],
                         "tier": 1
                     }
                 ]
             },
             {
-                "gold_left": 54,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 2,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
+                "augments": [
+                    "TFT6_Augment_Distancing",
+                    "TFT6_Augment_Underdogs",
+                    "TFT6_Augment_CyberneticUplink2"
                 ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Seraphine",
-                        "items": [
-                            14,
-                            34,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            24,
-                            27,
-                            16
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [
-                            69,
-                            25,
-                            55
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 20,
+                "gold_left": 52,
                 "level": 8,
                 "placement": 2,
-                "puuid": "N/A",
+                "puuid": "JayPL",
                 "traits": [
                     {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
+                        "name": "Set6_Arcanist",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 4
                     },
                     {
-                        "name": "Set6_Innovator",
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Challenger",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Mutant",
                         "num_units": 5,
                         "style": 3,
                         "tier_current": 2,
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 2,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
+                        "name": "Set6_Striker",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [
-                            19,
-                            4,
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
+                        "character_id": "TFT6_RekSai",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Heimerdinger",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
+                        "character_id": "TFT6_Malzahar",
                         "items": [
-                            56,
-                            36,
-                            49
+                            44,
+                            39,
+                            13
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
-                        "character_id": "TFT6_Seraphine",
+                        "character_id": "TFT6_ChoGath",
                         "items": [
-                            37,
-                            24,
-                            79
+                            55,
+                            69,
+                            47
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
-                        "character_id": "TFT6_Orianna",
+                        "character_id": "TFT6_KhaZix",
                         "items": [
-                            24,
-                            3,
-                            17
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            35,
-                            7,
                             26
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Jayce",
+                        "character_id": "TFT6_Alistar",
                         "items": [
-                            9003,
-                            56,
-                            24
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Kaisa",
+                        "items": [
+                            7,
+                            23,
+                            13
                         ],
                         "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 1,
+                "augments": [
+                    "TFT6_Augment_Electrocharge1",
+                    "TFT6_Augment_Underdogs",
+                    "TFT6_Augment_ThreesCompany"
+                ],
+                "gold_left": 11,
                 "level": 8,
-                "placement": 2,
+                "placement": 1,
                 "puuid": "N/A",
                 "traits": [
                     {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
+                        "name": "Set6_Arcanist",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 4
                     },
                     {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 2,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
+                        "name": "Set6_Assassin",
                         "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Challenger",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Yordle",
+                        "name": "Set6_Hextech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [
-                            2
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
-                        "items": [
-                            39,
-                            14,
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
-                        "items": [
-                            2198
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Seraphine",
-                        "items": [
-                            37,
-                            14,
-                            69
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            14,
-                            33,
-                            11
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [
-                            47
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Enforcer",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
+                        "name": "Set6_Mutant",
                         "num_units": 5,
                         "style": 3,
                         "tier_current": 2,
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 2,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
+                        "name": "Set6_Striker",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ezreal",
+                        "character_id": "TFT6_RekSai",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
+                        "character_id": "TFT6_Malzahar",
                         "items": [
-                            99,
-                            57,
-                            19
+                            44,
+                            33,
+                            12
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
-                        "character_id": "TFT6_Taric",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Seraphine",
+                        "character_id": "TFT6_ChoGath",
                         "items": [
-                            14,
-                            37,
-                            33
+                            25,
+                            16,
+                            29
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
-                        "character_id": "TFT6_Orianna",
+                        "character_id": "TFT6_KhaZix",
                         "items": [
-                            17,
-                            14,
+                            22,
+                            23,
                             46
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            15
-                        ],
+                        "character_id": "TFT6_Alistar",
+                        "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Jayce",
+                        "character_id": "TFT6_Kaisa",
                         "items": [
-                            55,
-                            36,
-                            56
+                            37,
+                            23,
+                            26
                         ],
                         "tier": 1
                     }
@@ -659,436 +471,329 @@
             }
         ]
     },
-    "356": {
+    "479": {
         "occurence": 5,
-        "comp": "['Janna', 'Lux', 'Malzahar', 'Swain', 'Taric', 'Vex', 'Viktor', 'Yuumi', 'Ziggs']",
+        "comp": "['Alistar', 'ChoGath', 'Kassadin', 'KhaZix', 'Malzahar', 'RekSai']",
         "data": [
             {
-                "gold_left": 0,
-                "level": 9,
-                "placement": 2,
-                "puuid": "LeGrain",
+                "augments": [
+                    "TFT6_Augment_MutantUnstableEvolution",
+                    "TFT6_Augment_LudensEcho1",
+                    "TFT6_Augment_SecondWind2"
+                ],
+                "gold_left": 18,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Ceremonialsss",
                 "traits": [
                     {
-                        "name": "Set6_Academy",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
                         "name": "Set6_Arcanist",
-                        "num_units": 8,
-                        "style": 4,
-                        "tier_current": 4,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Cuddly",
+                        "name": "Set6_Assassin",
                         "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
+                        "name": "Set6_Hextech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Imperial",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
                         "name": "Set6_Mutant",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
                     },
                     {
                         "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
                         "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 2,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ziggs",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Swain",
+                        "character_id": "TFT6_Kassadin",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Vex",
+                        "character_id": "TFT6_RekSai",
                         "items": [
-                            55,
                             77,
-                            36
+                            49,
+                            2
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Malzahar",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
                         "items": [
-                            38
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Lux",
-                        "items": [
-                            44,
+                            13,
                             39,
-                            19
+                            44
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_ChoGath",
+                        "items": [
+                            55,
+                            36,
+                            56
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_KhaZix",
+                        "items": [
+                            34,
+                            12
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            38,
-                            7
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Yuumi",
+                        "character_id": "TFT6_Alistar",
                         "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Viktor",
-                        "items": [
-                            24,
-                            26,
-                            79
-                        ],
                         "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 5,
-                "level": 9,
-                "placement": 1,
-                "puuid": "Ary0n",
+                "augments": [
+                    "TFT6_Augment_TreasureTrove1",
+                    "TFT6_Augment_Battlemage1",
+                    "TFT6_Augment_TriForce2"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "N/A",
                 "traits": [
                     {
-                        "name": "Set6_Academy",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
                         "name": "Set6_Arcanist",
-                        "num_units": 6,
-                        "style": 3,
-                        "tier_current": 3,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Cuddly",
+                        "name": "Set6_Assassin",
                         "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
+                        "name": "Set6_Hextech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Imperial",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
                         "name": "Set6_Mutant",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
                     },
                     {
                         "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
                         "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 2,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ziggs",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Swain",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Vex",
+                        "character_id": "TFT6_Kassadin",
                         "items": [
-                            27,
-                            36,
-                            55
+                            67
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Malzahar",
-                        "items": [
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
+                        "character_id": "TFT6_RekSai",
                         "items": [
                             59
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Lux",
+                        "character_id": "TFT6_Malzahar",
                         "items": [
-                            39,
+                            37,
                             44,
+                            13
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_ChoGath",
+                        "items": [
+                            25,
+                            55,
+                            47
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_KhaZix",
+                        "items": [
+                            49,
                             19
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Janna",
+                        "character_id": "TFT6_Alistar",
                         "items": [
-                            7
+                            99,
+                            45,
+                            94
                         ],
                         "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Yuumi",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Viktor",
-                        "items": [],
-                        "tier": 1
                     }
                 ]
             },
             {
-                "gold_left": 2,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
+                "augments": [
+                    "TFT6_Augment_Phalanx2",
+                    "TFT6_Augment_LudensEcho2",
+                    "TFT6_Augment_CyberneticUplink2"
+                ],
+                "gold_left": 0,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Lumarpin",
                 "traits": [
                     {
-                        "name": "Set6_Academy",
-                        "num_units": 3,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
                         "name": "Set6_Arcanist",
-                        "num_units": 6,
-                        "style": 3,
-                        "tier_current": 3,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Cuddly",
+                        "name": "Set6_Assassin",
                         "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
+                        "name": "Set6_Hextech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Imperial",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Mercenary",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
                         "name": "Set6_Mutant",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
                     },
                     {
                         "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
                         "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 2,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ziggs",
+                        "character_id": "TFT6_Kassadin",
+                        "items": [
+                            46
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_RekSai",
                         "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Swain",
-                        "items": [
-                            99,
-                            77,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Vex",
-                        "items": [
-                            27,
-                            47,
-                            55
-                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Malzahar",
-                        "items": [
-                            99,
-                            77,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Lux",
                         "items": [
                             39,
                             19,
@@ -1097,320 +802,252 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Janna",
+                        "character_id": "TFT6_ChoGath",
                         "items": [
-                            46,
-                            1,
-                            46
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Yuumi",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Viktor",
-                        "items": [
-                            39,
-                            48
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 0,
-                "level": 9,
-                "placement": 2,
-                "puuid": "winzeeer",
-                "traits": [
-                    {
-                        "name": "Set6_Academy",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 8,
-                        "style": 4,
-                        "tier_current": 4,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Cuddly",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Imperial",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Mutant",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 2,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Ziggs",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Swain",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Vex",
-                        "items": [
+                            47,
+                            25,
                             66
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Malzahar",
+                        "character_id": "TFT6_KhaZix",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Taric",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Lux",
+                        "character_id": "TFT6_Alistar",
                         "items": [
-                            44,
-                            39,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            38,
-                            17,
-                            6
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Yuumi",
-                        "items": [
-                            38,
-                            12
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Viktor",
-                        "items": [
-                            34,
-                            14,
-                            15
+                            33
                         ],
                         "tier": 2
                     }
                 ]
             },
             {
-                "gold_left": 3,
-                "level": 9,
+                "augments": [
+                    "TFT6_Augment_CyberneticShell2",
+                    "TFT6_Augment_TradeSector",
+                    "TFT6_Augment_LudensEcho2"
+                ],
+                "gold_left": 1,
+                "level": 8,
                 "placement": 1,
-                "puuid": "Katsuta",
+                "puuid": "ImSøFresh",
                 "traits": [
                     {
-                        "name": "Set6_Academy",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
                         "name": "Set6_Arcanist",
-                        "num_units": 8,
-                        "style": 4,
-                        "tier_current": 4,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Cuddly",
+                        "name": "Set6_Assassin",
                         "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Enchanter",
+                        "name": "Set6_Hextech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Mutant",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Kassadin",
+                        "items": [
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_RekSai",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Malzahar",
+                        "items": [
+                            33,
+                            44,
+                            33
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_ChoGath",
+                        "items": [
+                            57
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_KhaZix",
+                        "items": [
+                            16,
+                            94,
+                            29
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Alistar",
+                        "items": [
+                            45
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_CyberneticUplink1",
+                    "TFT6_Augment_MutantUnstableEvolution",
+                    "TFT6_Augment_ColossusArmorPlating"
+                ],
+                "gold_left": 35,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Liquid AKAWonder",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
                         "num_units": 2,
                         "style": 1,
                         "tier_current": 1,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Imperial",
+                        "name": "Set6_Colossus",
+                        "num_units": 2,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Hextech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 4
                     },
                     {
                         "name": "Set6_Mutant",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
                     },
                     {
                         "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
                         "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 2,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Ziggs",
+                        "character_id": "TFT6_Kassadin",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Swain",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Vex",
+                        "character_id": "TFT6_RekSai",
                         "items": [
-                            56,
-                            79,
-                            55
+                            25,
+                            25
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Malzahar",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Taric",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Lux",
                         "items": [
-                            44,
                             33,
-                            12
+                            37,
+                            44
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_ChoGath",
+                        "items": [
+                            26,
+                            25,
+                            47
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            38
-                        ],
+                        "character_id": "TFT6_KhaZix",
+                        "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Yuumi",
+                        "character_id": "TFT6_Alistar",
                         "items": [
-                            38
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Viktor",
-                        "items": [
-                            15,
-                            49
+                            45
                         ],
                         "tier": 2
                     }
@@ -1418,43 +1055,48 @@
             }
         ]
     },
-    "357": {
+    "480": {
         "occurence": 6,
-        "comp": "['Ezreal', 'Fiora', 'Heimerdinger', 'Janna', 'Jayce', 'Orianna', 'Seraphine', 'Singed', 'Zilean']",
+        "comp": "['Alistar', 'JarvanIV', 'Lucian', 'Nocturne', 'Sejuani', 'Sivir', 'Swain', 'TFT6b_Vi']",
         "data": [
             {
-                "gold_left": 4,
+                "augments": [
+                    "TFT6_Augment_HextechTrait",
+                    "TFT6_Augment_StrikerTrait",
+                    "TFT6_Augment_CyberneticShell2"
+                ],
+                "gold_left": 0,
                 "level": 9,
-                "placement": 1,
+                "placement": 2,
                 "puuid": "N/A",
                 "traits": [
                     {
-                        "name": "Set6_Challenger",
+                        "name": "Set6_Arcanist",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Chemtech",
+                        "name": "Set6_Assassin",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Enchanter",
+                        "name": "Set6_Bruiser",
                         "num_units": 2,
                         "style": 1,
                         "tier_current": 1,
                         "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
                     },
                     {
                         "name": "Set6_Enforcer",
@@ -1464,860 +1106,761 @@
                         "tier_total": 2
                     },
                     {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
+                        "name": "Set6_Hextech",
+                        "num_units": 8,
                         "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
+                        "tier_current": 4,
+                        "tier_total": 4
                     },
                     {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
+                        "name": "Set6_Rivals",
                         "num_units": 1,
                         "style": 3,
                         "tier_current": 1,
                         "tier_total": 1
                     },
                     {
-                        "name": "Set6_Yordle",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Singed",
-                        "items": [
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Seraphine",
-                        "items": [
-                            37,
-                            24,
-                            69
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            23
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Fiora",
-                        "items": [
-                            19,
-                            12,
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [
-                            11,
-                            17
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Challenger",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Singed",
-                        "items": [
-                            5,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Seraphine",
-                        "items": [
-                            14,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            46,
-                            34
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            2198,
-                            5
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Fiora",
-                        "items": [
-                            55,
-                            66
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [
-                            14,
-                            28
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Konich1wa",
-                "traits": [
-                    {
-                        "name": "Set6_Challenger",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
+                        "name": "Set6_Striker",
                         "num_units": 4,
                         "style": 3,
                         "tier_current": 2,
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
+                        "name": "Set6_Twinshot",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
-                        "tier_total": 2
+                        "tier_total": 4
                     }
                 ],
                 "units": [
                     {
-                        "character_id": "TFT6_Singed",
-                        "items": [
-                            88,
-                            59
-                        ],
-                        "tier": 2
+                        "character_id": "TFT6_Nocturne",
+                        "items": [],
+                        "tier": 1
                     },
                     {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [
-                            2200
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
-                        "items": [
-                            47
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Seraphine",
-                        "items": [
-                            14,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            2198
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Fiora",
-                        "items": [
-                            3,
-                            36
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [
-                            47,
-                            66,
-                            55
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 2,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Challenger",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Singed",
+                        "character_id": "TFT6_JarvanIV",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Ezreal",
+                        "character_id": "TFT6_Sejuani",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
+                        "character_id": "TFT6_Swain",
                         "items": [
-                            44,
-                            12,
                             13
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Seraphine",
+                        "character_id": "TFT6_Lucian",
                         "items": [
-                            24,
-                            12,
-                            14
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
+                            17,
                             79,
-                            35,
-                            2198
+                            13
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Janna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Fiora",
+                        "character_id": "TFT6_Sivir",
                         "items": [
+                            23,
+                            16,
                             12
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Jayce",
+                        "character_id": "TFT6b_Vi",
+                        "items": [
+                            26,
+                            71
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Alistar",
+                        "items": [
+                            29
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_HextechTrait",
+                    "TFT6_Augment_HextechForAllUnits",
+                    "TFT6_Augment_CyberneticUplink2"
+                ],
+                "gold_left": 1,
+                "level": 9,
+                "placement": 2,
+                "puuid": "TMS Thanzul",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Enforcer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 8,
+                        "style": 4,
+                        "tier_current": 4,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Rivals",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Twinshot",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Nocturne",
+                        "items": [
+                            24
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_JarvanIV",
+                        "items": [
+                            38
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sejuani",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Swain",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Lucian",
+                        "items": [
+                            89
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Sivir",
+                        "items": [
+                            12,
+                            24,
+                            49
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6b_Vi",
+                        "items": [
+                            33,
+                            69,
+                            57
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Alistar",
+                        "items": [
+                            77
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_HextechTrait",
+                    "TFT6_Augment_Ascension",
+                    "TFT6_Augment_PortableForge"
+                ],
+                "gold_left": 0,
+                "level": 9,
+                "placement": 2,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Enforcer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 8,
+                        "style": 4,
+                        "tier_current": 4,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Rivals",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Twinshot",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Nocturne",
                         "items": [
                             67
                         ],
                         "tier": 1
-                    }
-                ]
-            },
-            {
-                "gold_left": 6,
-                "level": 9,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Challenger",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
                     },
                     {
-                        "name": "Set6_Chemtech",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Singed",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Ezreal",
+                        "character_id": "TFT6_JarvanIV",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Zilean",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Heimerdinger",
+                        "character_id": "TFT6_Sejuani",
                         "items": [
-                            46,
-                            24,
-                            28
+                            47
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Seraphine",
-                        "items": [
-                            99
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            69,
-                            14,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Janna",
-                        "items": [
-                            9,
-                            35
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Fiora",
-                        "items": [
-                            2198,
-                            25,
-                            39
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jayce",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "gold_left": 1,
-                "level": 9,
-                "placement": 1,
-                "puuid": "MLG 42O BLAZE IT",
-                "traits": [
-                    {
-                        "name": "Set6_Challenger",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Chemtech",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Enforcer",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 2
-                    },
-                    {
-                        "name": "Set6_Innovator",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scrap",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Transformer",
-                        "num_units": 1,
-                        "style": 3,
-                        "tier_current": 1,
-                        "tier_total": 1
-                    },
-                    {
-                        "name": "Set6_Yordle",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 2
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Singed",
+                        "character_id": "TFT6_Swain",
                         "items": [],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Ezreal",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Zilean",
+                        "character_id": "TFT6_Lucian",
                         "items": [
-                            46,
-                            79
+                            17
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Heimerdinger",
+                        "character_id": "TFT6_Sivir",
                         "items": [
+                            94,
+                            11,
+                            23
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6b_Vi",
+                        "items": [
+                            9007,
+                            34,
                             33
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Seraphine",
+                        "character_id": "TFT6_Alistar",
                         "items": [
-                            34,
-                            14,
-                            39
+                            37,
+                            47,
+                            25
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_TomeOfTraits1",
+                    "TFT6_Augment_Disintegrator1",
+                    "TFT6_Augment_HextechEmblem"
+                ],
+                "gold_left": 12,
+                "level": 8,
+                "placement": 1,
+                "puuid": "TFT SWORDMI TFT",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Enforcer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 8,
+                        "style": 4,
+                        "tier_current": 4,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Rivals",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Twinshot",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Nocturne",
+                        "items": [
+                            38,
+                            37
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Orianna",
+                        "character_id": "TFT6_JarvanIV",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sejuani",
+                        "items": [
+                            7
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Swain",
                         "items": [],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT6_Janna",
+                        "character_id": "TFT6_Lucian",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sivir",
                         "items": [
-                            2198,
-                            3
+                            24,
+                            23,
+                            12
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Fiora",
+                        "character_id": "TFT6b_Vi",
                         "items": [
-                            25,
-                            12,
-                            9002
+                            72,
+                            36,
+                            66
                         ],
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Jayce",
+                        "character_id": "TFT6_Alistar",
                         "items": [
+                            66,
                             55,
-                            16,
+                            27
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_HextechEmblem",
+                    "TFT6_Augment_Weakspot",
+                    "TFT6_Augment_Battlemage2"
+                ],
+                "gold_left": 4,
+                "level": 9,
+                "placement": 2,
+                "puuid": "TFT SWORDMI TFT",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Enforcer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 8,
+                        "style": 4,
+                        "tier_current": 4,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Rivals",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Twinshot",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Nocturne",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_JarvanIV",
+                        "items": [
+                            22,
+                            26
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sejuani",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Swain",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Lucian",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sivir",
+                        "items": [
+                            69,
+                            23,
+                            24
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6b_Vi",
+                        "items": [
+                            72,
+                            13,
                             36
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Alistar",
+                        "items": [
+                            57,
+                            55,
+                            66
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_HextechTrait",
+                    "TFT6_Augment_FirstAidKit",
+                    "TFT6_Augment_CyberneticUplink2"
+                ],
+                "gold_left": 11,
+                "level": 9,
+                "placement": 1,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Colossus",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Enforcer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set6_Hextech",
+                        "num_units": 8,
+                        "style": 4,
+                        "tier_current": 4,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Rivals",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set6_Striker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Twinshot",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Nocturne",
+                        "items": [
+                            67
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_JarvanIV",
+                        "items": [
+                            79
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sejuani",
+                        "items": [
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Swain",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Lucian",
+                        "items": [
+                            17,
+                            29,
+                            17
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Sivir",
+                        "items": [
+                            49,
+                            24,
+                            69
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6b_Vi",
+                        "items": [
+                            57
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Alistar",
+                        "items": [
+                            37
                         ],
                         "tier": 2
                     }
