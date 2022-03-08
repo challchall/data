@@ -1,15 +1,15 @@
 {
-    "824": {
+    "817": {
         "occurence": 7,
         "comp": "['Ashe', 'Braum', 'Darius', 'Jhin', 'Morgana', 'Orianna', 'Senna', 'Zyra']",
         "data": [
             {
                 "augments": [
-                    "TFT6_Augment_MakeshiftArmor1",
-                    "TFT6_Augment_SniperNest",
-                    "TFT6_Augment_RadiantRelics"
+                    "TFT6_Augment_SyndicateOneForAll",
+                    "TFT6_Augment_TargetDummies",
+                    "TFT6_Augment_Meditation2"
                 ],
-                "gold_left": 52,
+                "gold_left": 30,
                 "level": 8,
                 "placement": 1,
                 "puuid": "N/A",
@@ -78,131 +78,8 @@
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            12,
                             19,
-                            23
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            47,
-                            56,
-                            2056
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            36,
-                            77,
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            19,
-                            13
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_PortableForge",
-                    "TFT6_Augment_ComponentGrabBag",
-                    "TFT6_Augment_TinyTitans"
-                ],
-                "gold_left": 7,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            49
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            19,
-                            9006,
+                            26,
                             12
                         ],
                         "tier": 3
@@ -210,30 +87,32 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            55,
-                            66,
-                            36
+                            47,
+                            47,
+                            55
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Senna",
                         "items": [],
-                        "tier": 1
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            79
+                            27,
+                            77,
+                            59
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            79,
-                            17,
-                            26
+                            23,
+                            94,
+                            66
                         ],
                         "tier": 2
                     },
@@ -246,11 +125,11 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_Meditation1",
-                    "TFT6_Augment_SyndicatePayday",
+                    "TFT6_Augment_Weakspot2",
+                    "TFT6_Augment_TomeOfTraits1",
                     "TFT6_Augment_ComponentGrabBag"
                 ],
-                "gold_left": 71,
+                "gold_left": 5,
                 "level": 8,
                 "placement": 1,
                 "puuid": "N/A",
@@ -278,9 +157,9 @@
                     },
                     {
                         "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
                         "tier_total": 3
                     },
                     {
@@ -313,148 +192,26 @@
                     },
                     {
                         "character_id": "TFT6_Zyra",
-                        "items": [
-                            34,
-                            33
-                        ],
+                        "items": [],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            29,
-                            23,
-                            19
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            56,
-                            47,
-                            37
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Senna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            47,
-                            77
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_Phalanx1",
-                    "TFT6_Augment_SyndicatePayday",
-                    "TFT6_Augment_TinyTitans"
-                ],
-                "gold_left": 28,
-                "level": 8,
-                "placement": 2,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 3,
-                        "style": 2,
-                        "tier_current": 2,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Socialite",
-                        "num_units": 1,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
+                            26,
                             19,
-                            23,
-                            26
+                            49
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            36,
-                            56,
-                            47
+                            77,
+                            55,
+                            66
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Senna",
@@ -464,19 +221,24 @@
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            57,
+                            2200,
                             7
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [],
+                        "items": [
+                            26,
+                            69
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
                         "items": [
+                            17,
+                            79,
                             47
                         ],
                         "tier": 2
@@ -485,14 +247,14 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_PandorasItems",
-                    "TFT6_Augment_ComponentGrabBag",
-                    "TFT6_Augment_SniperEmblem"
+                    "TFT6_Augment_Weakspot2",
+                    "TFT6_Augment_SecondWind1",
+                    "TFT6_Augment_ComponentGrabBag"
                 ],
-                "gold_left": 58,
+                "gold_left": 0,
                 "level": 8,
                 "placement": 2,
-                "puuid": "JellyKinZ",
+                "puuid": "silasdvTFT",
                 "traits": [
                     {
                         "name": "Set6_Bodyguard",
@@ -524,7 +286,7 @@
                     },
                     {
                         "name": "Set6_Sniper",
-                        "num_units": 3,
+                        "num_units": 2,
                         "style": 1,
                         "tier_current": 1,
                         "tier_total": 3
@@ -552,50 +314,162 @@
                     },
                     {
                         "character_id": "TFT6_Zyra",
-                        "items": [
-                            2
-                        ],
-                        "tier": 3
+                        "items": [],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
                             29,
-                            19,
-                            12
+                            11,
+                            19
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            66,
+                            36,
+                            57,
+                            33
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Senna",
+                        "items": [
+                            29,
+                            19
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            47,
+                            57,
+                            36
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SyndicatePayday",
+                    "TFT6_Augment_EnchanterTrait",
+                    "TFT6_Augment_ClockworkBrokenStopwatch"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "silasdvTFT",
+                "traits": [
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 3,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Socialite",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
                             55,
-                            47
+                            77,
+                            25
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Senna",
                         "items": [
-                            59,
-                            2199
+                            17
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            44,
-                            45
+                            66
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            79,
-                            19
+                            16,
+                            19,
+                            11
                         ],
                         "tier": 2
                     },
@@ -608,14 +482,14 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_MakeshiftArmor1",
-                    "TFT6_Augment_SyndicateOneForAll",
-                    "TFT6_Augment_Distancing2"
+                    "TFT6_Augment_TrueTwos",
+                    "TFT6_Augment_RichGetRicher",
+                    "TFT6_Augment_VerdantVeil"
                 ],
                 "gold_left": 4,
                 "level": 8,
                 "placement": 1,
-                "puuid": "N/A",
+                "puuid": "Moines Lewi",
                 "traits": [
                     {
                         "name": "Set6_Bodyguard",
@@ -675,14 +549,18 @@
                     },
                     {
                         "character_id": "TFT6_Zyra",
-                        "items": [],
-                        "tier": 2
+                        "items": [
+                            12,
+                            34,
+                            36
+                        ],
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            23,
                             29,
+                            11,
                             12
                         ],
                         "tier": 3
@@ -690,7 +568,127 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            55,
+                            36,
+                            37,
+                            47
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Senna",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            27,
+                            59,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [
+                            26
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SocialiteTrait",
+                    "TFT6_Augment_SyndicateOneForAll",
+                    "TFT6_Augment_Backfoot2"
+                ],
+                "gold_left": 51,
+                "level": 8,
+                "placement": 1,
+                "puuid": "esper0h",
+                "traits": [
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Socialite",
+                        "num_units": 2,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            99
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            29,
+                            12,
+                            19
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            37,
                             45,
                             56
                         ],
@@ -703,15 +701,14 @@
                     },
                     {
                         "character_id": "TFT6_Braum",
-                        "items": [
-                            37,
-                            27
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
+                            4,
+                            12,
                             19
                         ],
                         "tier": 2
@@ -725,14 +722,15 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_ItemGrabBag1",
-                    "TFT6_Augment_Backfoot2",
-                    "TFT6_Augment_CyberneticShell2"
+                    "TFT6_Augment_LudensEcho2",
+                    "TFT6_Augment_Backfoot1",
+                    "TFT6_Augment_ComponentGrabBag"
                 ],
-                "gold_left": 0,
+                "gold_left": 30,
                 "level": 8,
+                "partner_group_id": 3,
                 "placement": 1,
-                "puuid": "092Dylzz",
+                "puuid": "Bersalis",
                 "traits": [
                     {
                         "name": "Set6_Bodyguard",
@@ -793,16 +791,16 @@
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            14,
-                            35
+                            17,
+                            79
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            49,
                             19,
+                            12,
                             29
                         ],
                         "tier": 3
@@ -810,54 +808,53 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            56,
-                            47,
-                            37
+                            37,
+                            57
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Senna",
                         "items": [],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            16,
-                            25
+                            12,
+                            29,
+                            19
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
-                        "items": [
-                            47
-                        ],
-                        "tier": 2
+                        "items": [],
+                        "tier": 1
                     }
                 ]
             }
         ]
     },
-    "825": {
-        "occurence": 12,
-        "comp": "['Ashe', 'Braum', 'Darius', 'Jhin', 'Morgana', 'Orianna', 'Syndra', 'Zyra']",
+    "818": {
+        "occurence": 8,
+        "comp": "['Ashe', 'Braum', 'Darius', 'Jhin', 'Morgana', 'Orianna', 'Renata', 'Zyra']",
         "data": [
             {
                 "augments": [
+                    "TFT6_Augment_SocialiteTrait",
                     "TFT6_Augment_Weakspot",
-                    "TFT6_Augment_Underdogs",
-                    "TFT6_Augment_Phalanx2"
+                    "TFT6_Augment_Backfoot2"
                 ],
-                "gold_left": 2,
+                "gold_left": 10,
                 "level": 8,
-                "placement": 1,
+                "partner_group_id": 1,
+                "placement": 2,
                 "puuid": "N/A",
                 "traits": [
                     {
@@ -868,17 +865,17 @@
                         "tier_total": 4
                     },
                     {
+                        "name": "Set6_Chemtech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
                         "name": "Set6_Clockwork",
                         "num_units": 2,
                         "style": 1,
                         "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
                         "tier_total": 3
                     },
                     {
@@ -903,124 +900,11 @@
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            14,
-                            44,
-                            79
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            19,
-                            29,
-                            12
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            47,
-                            57,
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            11,
-                            29,
-                            94
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SyndicateOneForAll",
-                    "TFT6_Augment_PortableForge",
-                    "TFT6_Augment_CyberneticUplink2"
-                ],
-                "gold_left": 53,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
+                        "name": "Set6_Socialite",
                         "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
                         "style": 1,
                         "tier_current": 1,
                         "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
                     },
                     {
                         "name": "Set6_Syndicate",
@@ -1033,150 +917,22 @@
                 "units": [
                     {
                         "character_id": "TFT6_Darius",
-                        "items": [
-                            99,
-                            47,
-                            55
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            35
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [
-                            1
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            29,
                             12,
-                            11
+                            39
                         ],
                         "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            9001,
-                            56,
-                            37
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            8
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            69
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            4
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SyndicatePayday",
-                    "TFT6_Augment_Ascension",
-                    "TFT6_Augment_SecondWind2"
-                ],
-                "gold_left": 54,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 6,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            19,
                             29,
+                            19,
                             23
                         ],
                         "tier": 3
@@ -1184,27 +940,36 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            37,
-                            45
+                            45,
+                            37
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Braum",
-                        "items": [],
+                        "items": [
+                            47,
+                            4
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            69,
-                            68,
-                            94
+                            23,
+                            49
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
+                        "items": [
+                            35
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
                         "items": [],
                         "tier": 2
                     }
@@ -1212,9 +977,9 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_SyndicateOneForAll",
-                    "TFT6_Augment_SocialiteDuet",
-                    "TFT6_Augment_Diversify3"
+                    "TFT6_Augment_SniperEmblem",
+                    "TFT6_Augment_SniperTrait",
+                    "TFT6_Augment_Phalanx3"
                 ],
                 "gold_left": 1,
                 "level": 8,
@@ -1229,17 +994,17 @@
                         "tier_total": 4
                     },
                     {
-                        "name": "Set6_Clockwork",
-                        "num_units": 4,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
+                        "name": "Set6_Chemtech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
                         "tier_total": 3
                     },
                     {
@@ -1258,9 +1023,9 @@
                     },
                     {
                         "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
                         "tier_total": 3
                     },
                     {
@@ -1274,25 +1039,17 @@
                 "units": [
                     {
                         "character_id": "TFT6_Darius",
-                        "items": [
-                            13
-                        ],
-                        "tier": 3
+                        "items": [],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            2191,
-                            4
+                            2199,
+                            44,
+                            34
                         ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [
-                            2191
-                        ],
-                        "tier": 1
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
@@ -1306,8 +1063,8 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            77,
-                            55,
+                            57,
+                            66,
                             37
                         ],
                         "tier": 2
@@ -1315,29 +1072,38 @@
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            66
+                            59
                         ],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [],
+                        "items": [
+                            17
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
                         "items": [],
                         "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [
+                            3
+                        ],
+                        "tier": 2
                     }
                 ]
             },
             {
                 "augments": [
-                    "TFT6_Augment_MakeshiftArmor1",
-                    "TFT6_Augment_Meditation1",
-                    "TFT6_Augment_Backfoot2"
+                    "TFT6_Augment_SyndicateOneForAll",
+                    "TFT6_Augment_LudensEcho2",
+                    "TFT6_Augment_PortableForge"
                 ],
-                "gold_left": 0,
+                "gold_left": 1,
                 "level": 8,
                 "placement": 2,
                 "puuid": "N/A",
@@ -1350,6 +1116,13 @@
                         "tier_total": 4
                     },
                     {
+                        "name": "Set6_Chemtech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
                         "name": "Set6_Clockwork",
                         "num_units": 2,
                         "style": 1,
@@ -1357,10 +1130,122 @@
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Debonair",
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            37
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            23,
+                            9004,
+                            29
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            56,
+                            36
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            77,
+                            57,
+                            47
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [
+                            24
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_Diversify1",
+                    "TFT6_Augment_Backfoot1",
+                    "TFT6_Augment_CelestialBlessing2"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "tytanic",
+                "traits": [
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Chemtech",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
                         "tier_total": 3
                     },
                     {
@@ -1404,40 +1289,31 @@
                         "tier": 2
                     },
                     {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            23,
+                            29,
                             19,
-                            12
+                            26
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Morgana",
-                        "items": [
-                            47,
-                            77,
-                            37
-                        ],
-                        "tier": 3
+                        "items": [],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            56,
-                            57
+                            47,
+                            45,
+                            56
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            16,
                             29
                         ],
                         "tier": 2
@@ -1446,70 +1322,148 @@
                         "character_id": "TFT6_Orianna",
                         "items": [],
                         "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [
+                            46
+                        ],
+                        "tier": 2
                     }
                 ]
             },
             {
                 "augments": [
-                    "TFT6_Augment_ComponentGrabBag",
-                    "TFT6_Augment_Disintegrator2",
-                    "TFT6_Augment_BlueBattery2"
+                    "TFT6_Augment_TreasureTrove1",
+                    "TFT6_Augment_BlueBattery1",
+                    "TFT6_Augment_BandOfThieves1"
                 ],
-                "gold_left": 87,
-                "level": 9,
-                "placement": 2,
-                "puuid": "TrybleH",
-                "traits": [],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "N/A",
+                "traits": [
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Chemtech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    }
+                ],
                 "units": [
                     {
                         "character_id": "TFT6_Darius",
-                        "items": [],
+                        "items": [
+                            67,
+                            66
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Zyra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
+                        "items": [
+                            39
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ashe",
-                        "items": [],
+                        "items": [
+                            12,
+                            29,
+                            19
+                        ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Morgana",
-                        "items": [],
-                        "tier": 2
+                        "items": [
+                            59,
+                            47,
+                            37
+                        ],
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Braum",
-                        "items": [],
+                        "items": [
+                            99,
+                            5,
+                            36
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [],
+                        "items": [
+                            99,
+                            49,
+                            67
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
                         "items": [],
-                        "tier": 2
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [],
+                        "tier": 1
                     }
                 ]
             },
             {
                 "augments": [
-                    "TFT6_Augment_TradeSector",
-                    "TFT6_Augment_Phalanx1",
-                    "TFT6_Augment_BandOfThieves1"
+                    "TFT6_Augment_SniperNest",
+                    "TFT6_Augment_Backfoot1",
+                    "TFT6_Augment_MakeshiftArmor2"
                 ],
-                "gold_left": 41,
+                "gold_left": 2,
                 "level": 8,
                 "placement": 2,
                 "puuid": "N/A",
@@ -1522,17 +1476,17 @@
                         "tier_total": 4
                     },
                     {
+                        "name": "Set6_Chemtech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
                         "name": "Set6_Clockwork",
                         "num_units": 2,
                         "style": 1,
                         "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
                         "tier_total": 3
                     },
                     {
@@ -1573,26 +1527,253 @@
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            99,
-                            26,
-                            12
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [
-                            99,
-                            25,
-                            12
+                            39,
+                            19,
+                            14
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            94,
-                            12,
+                            19,
+                            14,
+                            12
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            37,
+                            36,
+                            56
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SniperNest",
+                    "TFT6_Augment_PandorasItems",
+                    "TFT6_Augment_Phalanx2"
+                ],
+                "gold_left": 30,
+                "level": 8,
+                "partner_group_id": 2,
+                "placement": 1,
+                "puuid": "Be the Bee",
+                "traits": [
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Chemtech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            14,
+                            29
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            19,
+                            29,
+                            69
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            69,
+                            55,
+                            66
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            27
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [
+                            99,
+                            7,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_BandOfThieves1",
+                    "TFT6_Augment_CyberneticUplink2",
+                    "TFT6_Augment_SecondWind2"
+                ],
+                "gold_left": 0,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Ratalix",
+                "traits": [
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Chemtech",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 5,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            99
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            29,
+                            19,
                             23
                         ],
                         "tier": 3
@@ -1600,129 +1781,7 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            3,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            37,
-                            25,
-                            47
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            69,
-                            19
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_ItemGrabBag1",
-                    "TFT6_Augment_SyndicatePayday",
-                    "TFT6_Augment_CyberneticShell2"
-                ],
-                "gold_left": 4,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Tzuyann",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            36
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [
                             99
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
-                            19,
-                            29
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            37
                         ],
                         "tier": 3
                     },
@@ -1730,37 +1789,60 @@
                         "character_id": "TFT6_Braum",
                         "items": [
                             77,
-                            55,
-                            4
+                            66,
+                            57
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            29,
-                            19
+                            79,
+                            79
                         ],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Orianna",
-                        "items": [],
+                        "items": [
+                            22
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Renata",
+                        "items": [
+                            35,
+                            35
+                        ],
                         "tier": 1
                     }
                 ]
-            },
+            }
+        ]
+    },
+    "819": {
+        "occurence": 13,
+        "comp": "['Ahri', 'Ashe', 'Braum', 'Darius', 'Jhin', 'Morgana', 'Orianna', 'Zyra']",
+        "data": [
             {
                 "augments": [
-                    "TFT6_Augment_FirstAidKit",
-                    "TFT6_Augment_SyndicateOneForAll",
-                    "TFT6_Augment_SniperEmblem2"
+                    "TFT6_Augment_EnchanterTrait",
+                    "TFT6_Augment_SniperNest",
+                    "TFT6_Augment_SyndicateEmblem"
                 ],
-                "gold_left": 4,
+                "gold_left": 2,
                 "level": 8,
                 "placement": 1,
                 "puuid": "N/A",
                 "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
                     {
                         "name": "Set6_Bodyguard",
                         "num_units": 2,
@@ -1776,38 +1858,31 @@
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Debonair",
+                        "name": "Set6_Enchanter",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
                         "num_units": 1,
                         "style": 0,
                         "tier_current": 0,
                         "tier_total": 3
                     },
                     {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
                         "name": "Set6_Sniper",
-                        "num_units": 4,
-                        "style": 3,
-                        "tier_current": 2,
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
                         "tier_total": 3
                     },
                     {
                         "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
                         "tier_total": 3
                     }
                 ],
@@ -1821,259 +1896,15 @@
                         "character_id": "TFT6_Zyra",
                         "items": [
                             67,
-                            2199
+                            3
                         ],
                         "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            29,
-                            12,
-                            11
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            37,
-                            56,
-                            47
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            45
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            2199,
-                            44,
-                            45
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_ComponentGrabBag",
-                    "TFT6_Augment_LudensEcho1",
-                    "TFT6_Augment_BlueBattery2"
-                ],
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 3,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            14,
-                            23,
-                            24
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            26,
-                            23,
-                            11
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            66,
-                            37,
-                            55
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            49
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            2199,
-                            69
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SniperNest",
-                    "TFT6_Augment_TargetDummies",
-                    "TFT6_Augment_Disintegrator2"
-                ],
-                "gold_left": 2,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
                             19,
-                            29,
+                            69,
                             12
                         ],
                         "tier": 3
@@ -2081,879 +1912,32 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            55,
-                            37,
+                            56,
+                            77,
                             45
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Braum",
-                        "items": [
-                            77
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
                         "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            33,
-                            44
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_CalculatedLoss",
-                    "TFT6_Augment_Meditation2",
-                    "TFT6_Augment_WoodlandTrinket"
-                ],
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Debonair",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 5,
-                        "style": 3,
-                        "tier_current": 2,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            23,
-                            34
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Syndra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
-                            23,
-                            69
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            55,
-                            47,
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            27
-                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            }
-        ]
-    },
-    "826": {
-        "occurence": 15,
-        "comp": "['Ahri', 'Ashe', 'Braum', 'Darius', 'Jhin', 'Morgana', 'Orianna', 'Zyra']",
-        "data": [
-            {
-                "augments": [
-                    "TFT6_Augment_ThrillOfTheHunt1",
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_ScholarEmblem"
-                ],
-                "gold_left": 1,
-                "level": 8,
-                "placement": 2,
-                "puuid": "leinadsaibot29",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Mutant",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
                         "items": [
-                            2200,
-                            2190
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            35,
-                            39,
-                            34
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
-                            12,
-                            11
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            77,
-                            37
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [
-                            79
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_Recombobulator",
-                    "TFT6_Augment_Backfoot2"
-                ],
-                "gold_left": 1,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Drakeen",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            99
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
+                            68,
                             29,
-                            69
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            36,
-                            47,
-                            59
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            23,
-                            67
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [
-                            59
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_Backfoot1",
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_TinyTitans"
-                ],
-                "gold_left": 21,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            2200
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            9
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            29,
-                            19,
-                            23
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            77,
-                            55,
-                            56
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            11
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            13
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SniperNest",
-                    "TFT6_Augment_ComponentGrabBag",
-                    "TFT6_Augment_SyndicateEmblem"
-                ],
-                "gold_left": 17,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            6
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            17,
-                            23
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            29,
-                            11,
                             19
                         ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            47,
-                            66,
-                            55
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            68
-                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
                         "items": [
-                            34,
-                            44,
-                            37
-                        ],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_TomeOfTraits1",
-                    "TFT6_Augment_FuturePeepers2"
-                ],
-                "gold_left": 11,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            2200
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            24,
-                            23,
-                            79
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            11,
-                            12,
                             29
                         ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            36,
-                            49,
-                            59
-                        ],
                         "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            2067,
-                            47
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SniperNest",
-                    "TFT6_Augment_Weakspot",
-                    "TFT6_Augment_SalvageBin"
-                ],
-                "gold_left": 0,
-                "level": 8,
-                "placement": 1,
-                "puuid": "N/A",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            38
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
-                            11,
-                            12
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            55,
-                            47,
-                            56
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            68
-                        ],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Ahri",
@@ -2965,13 +1949,13 @@
             {
                 "augments": [
                     "TFT6_Augment_SyndicateOneForAll",
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_BlueBattery2"
+                    "TFT6_Augment_JeweledLotus",
+                    "TFT6_Augment_SyndicateEmblem"
                 ],
-                "gold_left": 7,
+                "gold_left": 52,
                 "level": 8,
                 "placement": 1,
-                "puuid": "N/A",
+                "puuid": "asterxissjblue",
                 "traits": [
                     {
                         "name": "Set6_Arcanist",
@@ -3032,13 +2016,13 @@
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
                             19,
-                            12,
+                            23,
                             29
                         ],
                         "tier": 3
@@ -3046,18 +2030,146 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            25
+                            36
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            99,
-                            10006,
-                            10006
+                            37,
+                            56,
+                            47
                         ],
                         "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [
+                            19,
+                            68
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [
+                            39,
+                            34
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SyndicateOneForAll",
+                    "TFT6_Augment_SyndicateEmblem",
+                    "TFT6_Augment_ScholarEmblem"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Rogunis",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bruiser",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            44,
+                            33,
+                            13
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            19,
+                            29,
+                            16
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            57,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [],
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Jhin",
@@ -3067,16 +2179,136 @@
                     {
                         "character_id": "TFT6_Orianna",
                         "items": [
-                            33,
-                            3
+                            2200,
+                            68,
+                            2197
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SyndicatePayday",
+                    "TFT6_Augment_SyndicateEmblem",
+                    "TFT6_Augment_LudensEcho2"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Sòúl",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            14
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            47,
+                            56,
+                            55
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [
+                            68,
+                            69
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [
+                            99,
+                            79,
+                            45
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ahri",
                         "items": [
-                            13,
-                            19,
+                            46,
+                            14,
                             39
                         ],
                         "tier": 2
@@ -3085,13 +2317,132 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_Weakspot",
-                    "TFT6_Augment_SyndicateTrait",
+                    "TFT6_Augment_SyndicateEmblem",
+                    "TFT6_Augment_SyndicateOneForAll",
                     "TFT6_Augment_Backfoot2"
+                ],
+                "gold_left": 7,
+                "level": 8,
+                "placement": 2,
+                "puuid": "El GaMellOft",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            14,
+                            24,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            19,
+                            11,
+                            23
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            45,
+                            66,
+                            77
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [
+                            68,
+                            34
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_CyberneticShell1",
+                    "TFT6_Augment_SyndicateTrait",
+                    "TFT6_Augment_SalvageBin"
                 ],
                 "gold_left": 1,
                 "level": 8,
-                "placement": 2,
+                "placement": 1,
                 "puuid": "N/A",
                 "traits": [
                     {
@@ -3153,131 +2504,17 @@
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            47
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
-                            29,
-                            22
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            37,
-                            66,
-                            25
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
                             17,
-                            69,
-                            49
+                            39,
+                            44
                         ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_Underdogs",
-                    "TFT6_Augment_PortableForge"
-                ],
-                "gold_left": 4,
-                "level": 8,
-                "placement": 1,
-                "puuid": "Icemannn23",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
-                            22,
-                            12,
+                            19,
+                            11,
                             29
                         ],
                         "tier": 3
@@ -3285,33 +2522,27 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            47,
-                            33,
-                            55
+                            25,
+                            57,
+                            67
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            57,
-                            56
+                            37
                         ],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [
-                            19,
-                            69
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
-                        "items": [
-                            9007
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
@@ -3323,134 +2554,13 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_Weakspot2",
+                    "TFT6_Augment_TargetDummies",
+                    "TFT6_Augment_LudensEcho2",
                     "TFT6_Augment_ScholarEmblem"
                 ],
-                "gold_left": 1,
+                "gold_left": 2,
                 "level": 8,
-                "placement": 1,
-                "puuid": "Wandherker",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [
-                            7
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [
-                            14,
-                            24
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            12,
-                            29,
-                            19
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            37,
-                            55,
-                            13
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            79,
-                            26
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            2200
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [],
-                        "tier": 2
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_PortableForge",
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_CyberneticUplink2"
-                ],
-                "gold_left": 41,
-                "level": 8,
+                "partner_group_id": 2,
                 "placement": 1,
                 "puuid": "N/A",
                 "traits": [
@@ -3507,21 +2617,142 @@
                 "units": [
                     {
                         "character_id": "TFT6_Darius",
-                        "items": [],
+                        "items": [
+                            2200
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            35,
-                            34
+                            11,
+                            44,
+                            39
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
+                            19,
                             29,
+                            12
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            47,
+                            37,
+                            55
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [
+                            68
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [],
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_TreasureTrove1",
+                    "TFT6_Augment_Weakspot2",
+                    "TFT6_Augment_SyndicateEmblem"
+                ],
+                "gold_left": 1,
+                "level": 8,
+                "placement": 1,
+                "puuid": "MPLfreaki",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            2,
+                            17,
+                            17
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            12,
                             19,
                             23
                         ],
@@ -3531,48 +2762,44 @@
                         "character_id": "TFT6_Morgana",
                         "items": [
                             36,
-                            9010,
-                            66
+                            47
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            5
+                            47
                         ],
-                        "tier": 2
+                        "tier": 1
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            94
+                            68,
+                            79
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
-                        "items": [
-                            2200
-                        ],
+                        "items": [],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ahri",
-                        "items": [
-                            34
-                        ],
+                        "items": [],
                         "tier": 2
                     }
                 ]
             },
             {
                 "augments": [
-                    "TFT6_Augment_ThrillOfTheHunt1",
-                    "TFT6_Augment_CyberneticShell1",
-                    "TFT6_Augment_Electrocharge2"
+                    "TFT6_Augment_SyndicateOneForAll",
+                    "TFT6_Augment_SyndicateTrait",
+                    "TFT6_Augment_SyndicateEmblem"
                 ],
-                "gold_left": 1,
+                "gold_left": 4,
                 "level": 8,
                 "placement": 1,
                 "puuid": "N/A",
@@ -3621,7 +2848,7 @@
                     },
                     {
                         "name": "Set6_Syndicate",
-                        "num_units": 7,
+                        "num_units": 8,
                         "style": 4,
                         "tier_current": 3,
                         "tier_total": 3
@@ -3635,7 +2862,9 @@
                     },
                     {
                         "character_id": "TFT6_Zyra",
-                        "items": [],
+                        "items": [
+                            79
+                        ],
                         "tier": 2
                     },
                     {
@@ -3643,174 +2872,56 @@
                         "items": [
                             19,
                             29,
-                            22
+                            12
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            56,
-                            77,
-                            25
+                            45,
+                            66,
+                            55
                         ],
-                        "tier": 2
+                        "tier": 3
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            37
+                            66
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [],
-                        "tier": 1
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
                         "items": [
-                            68
+                            68,
+                            69
                         ],
                         "tier": 1
                     },
                     {
-                        "character_id": "TFT6_Ahri",
+                        "character_id": "TFT6_Orianna",
                         "items": [],
                         "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [
+                            34
+                        ],
+                        "tier": 2
                     }
                 ]
             },
             {
                 "augments": [
-                    "TFT6_Augment_Weakspot",
-                    "TFT6_Augment_Diversify1",
-                    "TFT6_Augment_SyndicateEmblem"
+                    "TFT6_Augment_TomeOfTraits1",
+                    "TFT6_Augment_CyberneticUplink2",
+                    "TFT6_Augment_BandOfThieves1"
                 ],
-                "gold_left": 61,
+                "gold_left": 0,
                 "level": 8,
-                "placement": 1,
-                "puuid": "AbsOlutz",
-                "traits": [
-                    {
-                        "name": "Set6_Arcanist",
-                        "num_units": 1,
-                        "style": 0,
-                        "tier_current": 0,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Bodyguard",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Clockwork",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Enchanter",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 4
-                    },
-                    {
-                        "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Sniper",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
-                        "tier_total": 3
-                    },
-                    {
-                        "name": "Set6_Syndicate",
-                        "num_units": 7,
-                        "style": 4,
-                        "tier_current": 3,
-                        "tier_total": 3
-                    }
-                ],
-                "units": [
-                    {
-                        "character_id": "TFT6_Darius",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Zyra",
-                        "items": [],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ashe",
-                        "items": [
-                            29,
-                            19,
-                            49
-                        ],
-                        "tier": 3
-                    },
-                    {
-                        "character_id": "TFT6_Morgana",
-                        "items": [
-                            36,
-                            57
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Braum",
-                        "items": [
-                            77,
-                            55,
-                            44
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Jhin",
-                        "items": [
-                            68
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Orianna",
-                        "items": [
-                            2200
-                        ],
-                        "tier": 2
-                    },
-                    {
-                        "character_id": "TFT6_Ahri",
-                        "items": [
-                            2
-                        ],
-                        "tier": 1
-                    }
-                ]
-            },
-            {
-                "augments": [
-                    "TFT6_Augment_RichGetRicher",
-                    "TFT6_Augment_PandorasItems",
-                    "TFT6_Augment_SyndicateEmblem"
-                ],
-                "gold_left": 10,
-                "level": 7,
                 "placement": 2,
                 "puuid": "N/A",
                 "traits": [
@@ -3867,60 +2978,65 @@
                 "units": [
                     {
                         "character_id": "TFT6_Darius",
-                        "items": [],
+                        "items": [
+                            77
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            12
+                            49
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
                             19,
-                            12,
-                            29
+                            29,
+                            12
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
+                            57,
                             37,
-                            55,
-                            45
+                            66
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            25,
-                            66
+                            99,
+                            2,
+                            49
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
                         "items": [
-                            17,
-                            68,
-                            79
+                            68
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
-                        "items": [],
-                        "tier": 1
+                        "items": [
+                            14
+                        ],
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ahri",
                         "items": [
-                            88
+                            99,
+                            3,
+                            33
                         ],
                         "tier": 2
                     }
@@ -3928,14 +3044,14 @@
             },
             {
                 "augments": [
-                    "TFT6_Augment_SyndicateTrait",
-                    "TFT6_Augment_ScholarTrait",
-                    "TFT6_Augment_Weakspot2"
+                    "TFT6_Augment_Phalanx3",
+                    "TFT6_Augment_BlueBattery1",
+                    "TFT6_Augment_SyndicateEmblem"
                 ],
-                "gold_left": 2,
+                "gold_left": 20,
                 "level": 8,
                 "placement": 1,
-                "puuid": "La chaaaatee",
+                "puuid": "N/A",
                 "traits": [
                     {
                         "name": "Set6_Arcanist",
@@ -3967,9 +3083,9 @@
                     },
                     {
                         "name": "Set6_Scholar",
-                        "num_units": 2,
-                        "style": 1,
-                        "tier_current": 1,
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
                         "tier_total": 3
                     },
                     {
@@ -3996,17 +3112,135 @@
                     {
                         "character_id": "TFT6_Zyra",
                         "items": [
-                            46,
-                            17,
-                            24
+                            35
                         ],
-                        "tier": 3
+                        "tier": 2
                     },
                     {
                         "character_id": "TFT6_Ashe",
                         "items": [
+                            29,
+                            26,
+                            16
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            33,
+                            57,
+                            77
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            99,
+                            69,
+                            11
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [
+                            68
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [
+                            24
+                        ],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_SyndicateTrait",
+                    "TFT6_Augment_PandorasItems",
+                    "TFT6_Augment_Meditation2"
+                ],
+                "gold_left": 28,
+                "level": 8,
+                "placement": 1,
+                "puuid": "Fulguranter",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            12,
                             19,
-                            49,
                             29
                         ],
                         "tier": 3
@@ -4014,27 +3248,163 @@
                     {
                         "character_id": "TFT6_Morgana",
                         "items": [
-                            37,
-                            56,
-                            36
+                            55,
+                            69,
+                            77
                         ],
                         "tier": 3
                     },
                     {
                         "character_id": "TFT6_Braum",
                         "items": [
-                            59
+                            99,
+                            79,
+                            45
                         ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Jhin",
-                        "items": [],
+                        "items": [
+                            11,
+                            4
+                        ],
                         "tier": 2
                     },
                     {
                         "character_id": "TFT6_Orianna",
                         "items": [],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Ahri",
+                        "items": [],
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "augments": [
+                    "TFT6_Augment_PandorasItems",
+                    "TFT6_Augment_SyndicateEmblem",
+                    "TFT6_Augment_TinyTitans"
+                ],
+                "gold_left": 0,
+                "level": 8,
+                "placement": 2,
+                "puuid": "Zippor",
+                "traits": [
+                    {
+                        "name": "Set6_Arcanist",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Bodyguard",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Clockwork",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Enchanter",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Scholar",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Sniper",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set6_Socialite",
+                        "num_units": 1,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set6_Syndicate",
+                        "num_units": 7,
+                        "style": 4,
+                        "tier_current": 3,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT6_Darius",
+                        "items": [
+                            59
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Zyra",
+                        "items": [
+                            35,
+                            58,
+                            66
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Ashe",
+                        "items": [
+                            19,
+                            12,
+                            29
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Morgana",
+                        "items": [
+                            47,
+                            37,
+                            56
+                        ],
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT6_Braum",
+                        "items": [
+                            45
+                        ],
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT6_Jhin",
+                        "items": [
+                            68
+                        ],
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT6_Orianna",
+                        "items": [
+                            2193
+                        ],
                         "tier": 2
                     },
                     {
